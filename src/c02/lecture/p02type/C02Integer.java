@@ -19,5 +19,6 @@ public class C02Integer {
         long e = 9_999_999_999L;
         long f = 23423L;
 
+        // byte, short 배울 예정
     }
 }
