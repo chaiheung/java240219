@@ -1,5 +1,7 @@
 package c02.lecture.p02type;
 
+import java.util.Arrays;
+
 public class C11Boolean {
     public static void main(String[] args) {
         // boolean (논리형, 부울형, 불리언)
@@ -16,6 +18,5 @@ public class C11Boolean {
         if (b) {
             System.out.println("반갑습니다");
         }
-
     }
 }

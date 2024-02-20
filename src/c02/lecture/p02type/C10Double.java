@@ -20,6 +20,5 @@ public class C10Double {
 
         BigDecimal f = d.add(e);
         System.out.println("f = " + f);
-
     }
 }
