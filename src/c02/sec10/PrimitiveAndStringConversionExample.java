@@ -22,5 +22,12 @@ public class PrimitiveAndStringConversionExample {
         System.out.println("str4 = " + str4);
 
 
+        String str5 = String.valueOf(3.14);
+        String str6 = Double.toString(3.14);
+        String str7 = 3.14 + "";
+        // 모두 사용 가능
+        System.out.println("str5 = " + str5);
+        System.out.println("str6 = " + str6);
+        System.out.println("str7 = " + str7);
     }
 }
