@@ -9,7 +9,7 @@ public class C22TypeConversion {
 
         int intValue1 = byteValue;
         int intValue2 = charValue;
-        //short shortValue = charValue;//
+        //short shortValue = charValue;
         double doubleValue = byteValue;
 
         // p74 Q6
@@ -21,7 +21,7 @@ public class C22TypeConversion {
         double var1 = (double) intValue3;
         byte var2 = (byte) intValue3;
         int var3 = (int) doubleValue3;
-        //char var = (char) strValue3;//
+        //char var = (char) strValue3;
 
         // 기본 타입과 참조 타입간 형변환 안됨.
     }
