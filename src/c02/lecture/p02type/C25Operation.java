@@ -2,7 +2,7 @@ package c02.lecture.p02type;
 
 public class C25Operation {
     public static void main(String[] args) {
-        // 정수간 연산의 결과는 정수
+        // 정수 간 연산의 결과는 정수
         int a = 10;
         int b = 2;
         int c = a / b; // 5
