@@ -28,5 +28,19 @@ public class C23String {
         String i = "가나다";
         //int j = Integer.parseInt(i);
 
+
+        // 2. 기본타입 -> String
+        int k = 356;
+        double l = 3.14;
+
+        String m = String.valueOf(k);
+        String n = String.valueOf(l);
+        System.out.println("m = " + m);
+        System.out.println("n = " + n);
+
+        String o = k + "";
+        String p = l + "";
+        System.out.println("o = " + o);
+        System.out.println("p = " + p);
     }
 }
