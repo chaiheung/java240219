@@ -29,5 +29,12 @@ public class Exercise {
         double area4 = (double) ((lengthTop + lengthBottom) * height / 2);
         System.out.println("area4 = " + area4);
 
+        // 6.
+        int x = 10;
+        int y = 5;
+
+        System.out.println(x > 7 && y <= 5);
+        System.out.println(x % 3 == 2 || y % 2 != 1);
+
     }
 }
