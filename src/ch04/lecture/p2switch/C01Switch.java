@@ -4,7 +4,8 @@ public class C01Switch {
     public static void main(String[] args) {
         System.out.println("statement 1");
 
-        String city = "제주";
+        String city = "부산";
+
         switch (city) {
             // 값이 "서울"
             case "서울":
@@ -19,14 +20,20 @@ public class C01Switch {
             // 값이 "부산"
             case "부산":
                 System.out.println("statement 4");
+                System.out.println("statement 4 - 1");
                 break;
+
+            // 위의 모든 case에 해당되지 않을 때
+            default:
+                System.out.println("statement 5");
+                break;
+
         }
 
-        System.out.println("statemet 5");
-        System.out.println("statemet 6");
-        System.out.println("statemet 7");
-        System.out.println("statemet 8");
-        System.out.println("statemet 9");
 
+        System.out.println("statement 6");
+        System.out.println("statement 7");
+        System.out.println("statement 8");
+        System.out.println("statement 9");
     }
 }
