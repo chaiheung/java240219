@@ -11,6 +11,6 @@ public class C09Array {
         int[] arr3 = {8, 3, 2};
 
         // 생략 불가
-        var arr4 = new int[]{10, 11, 12}
+        var arr4 = new int[]{10, 11, 12};
     }
 }
