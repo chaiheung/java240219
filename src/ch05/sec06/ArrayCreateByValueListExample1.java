@@ -1,6 +1,6 @@
 package ch05.sec06;
 
-public class ArrayCreateValueListExample1 {
+public class ArrayCreateByValueListExample1 {
     public static void main(String[] args) {
         String[] season = {"Spring", "Summer", "Autumn", "Winter"};
 
