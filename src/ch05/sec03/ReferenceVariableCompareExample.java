@@ -12,5 +12,9 @@ public class ReferenceVariableCompareExample {
 
         System.out.println(arr1 == arr2);
         System.out.println(arr2 == arr3);
+
+        System.out.println(System.identityHashCode(arr1));
+        System.out.println(System.identityHashCode(arr2));
+        System.out.println(System.identityHashCode(arr3));
     }
 }
