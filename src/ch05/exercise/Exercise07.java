@@ -1,6 +1,6 @@
 package ch05.exercise;
 
-public class Exercise {
+public class Exercise07 {
     public static void main(String[] args) {
         int[] array = {1, 5, 3, 8, 2};
 
@@ -14,8 +14,8 @@ public class Exercise {
             if (item > max) {
                 max = item;
             }
-
         }
+
         System.out.println("max = " + max);
     }
 }
