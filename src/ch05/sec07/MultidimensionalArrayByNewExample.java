@@ -70,7 +70,6 @@ public class MultidimensionalArrayByNewExample {
 
         double totalEnglishAvg = (double) totalEnglishSum / totalStudent;
         System.out.println("전체 학생의 영어 평균 점수 = " + totalEnglishAvg);
-            }
-        }
     }
 }
+
