@@ -1,4 +1,4 @@
-package ch04.lecture.p1if;
+package ch04.lecture.p2switch;
 
 public class C07SwitchExprssion {
     public static void main(String[] args) {
