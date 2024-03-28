@@ -12,7 +12,7 @@ public class C01OutputStream {
         // Reader : 문자단위 입력 스트림
         // Writer : 문자단위 출력 스트림
 
-        String fileName = "temp/output01.data";
+        String fileName = "temp/output1.data";
         OutputStream os = new FileOutputStream(fileName);
         os.write(99);
         os.write(100);
