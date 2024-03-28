@@ -1,4 +1,4 @@
-package ch11.exercise.exercise07;
+package ch11.exercise.Exercise07;
 
 public class LoginExample {
     public static void main(String[] args) {

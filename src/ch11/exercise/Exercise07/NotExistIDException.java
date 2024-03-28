@@ -1,4 +1,4 @@
-package ch11.exercise.exercise07;
+package ch11.exercise.Exercise07;
 
 public class NotExistIDException extends Exception {
     public NotExistIDException() {

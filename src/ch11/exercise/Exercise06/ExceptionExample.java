@@ -1,4 +1,4 @@
-package ch11.exercise.exercise06;
+package ch11.exercise.Exercise06;
 
 public class ExceptionExample {
     public static void main(String[] args) {
